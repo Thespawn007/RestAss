@@ -1,4 +1,4 @@
-package api.RestAssuredOne;
+package api.RestAssuredWithPojo;
 
 public class UserData {
     private Integer id;

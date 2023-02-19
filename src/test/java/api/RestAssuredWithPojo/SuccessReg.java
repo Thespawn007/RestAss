@@ -1,4 +1,4 @@
-package api.RestAssuredTwo;
+package api.RestAssuredWithPojo;
 
 public class SuccessReg{
     private Integer id;

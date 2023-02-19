@@ -1,4 +1,4 @@
-package api.RestAssuredTwo;
+package api.RestAssuredWithPojo;
 
 import io.restassured.RestAssured;
 import io.restassured.builder.RequestSpecBuilder;

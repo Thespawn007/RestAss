@@ -1,6 +1,6 @@
-package api.RestAssuredTwo;
+package api.RestAssuredWithPojo;
 
-public class UserTimeResponse extends UserTime {
+public class UserTimeResponse extends UserTime{
     private String updatedAt;
     public UserTimeResponse(String name, String job,String updatedAt){
         super(name,job);

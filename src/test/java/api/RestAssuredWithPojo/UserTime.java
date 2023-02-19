@@ -1,4 +1,4 @@
-package api.RestAssuredOne;
+package api.RestAssuredWithPojo;
 
 public class UserTime {
     private String name;

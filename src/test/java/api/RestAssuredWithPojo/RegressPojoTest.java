@@ -1,4 +1,4 @@
-package api.RestAssuredTwo;
+package api.RestAssuredWithPojo;
 import org.junit.Assert;
 import org.junit.Test;
 
@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 
 import static io.restassured.RestAssured.given;
 
-public class RegressTest {
+public class RegressPojoTest {
     private final static String url = "https://reqres.in";
     @Test
     public void checkAvatarAndIdTest(){
